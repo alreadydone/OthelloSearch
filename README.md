@@ -7,5 +7,5 @@ Shortest paths to reach specific configuration in the game of Othello/Reversi/é»
 + PassEatupEdge: pass without reaching an edge or all pieces in one color.
 + Corner: corner can be reached in 17 moves. All 17~18-move sequences were found.
 
-Please forgive the horrible C code from 2007 when I first learned programming.
+Please forgive the horrible C code from 2007 when I first learned programming.\
 I believe the code accounts for symmetry but I've forgotten the details.
